@@ -1,0 +1,25 @@
+.text{
+    display: inline-block;
+    padding:0;
+    background-color: rgb(6, 4, 4);
+}
+h1{font-family: 'Times New Roman', Times, serif; 
+    color: rgb(24, 9, 7);
+   }
+ body{background-image: url(bedroom-fairy-lights-1602864999.jpg);
+   color: rgb(255, 255, 255);}
+ #logo {
+   border-radius: 10px;
+   height: 500px;
+   width: auto;
+   object-fit: cover;
+ }
+ #a{
+    margin-top: 0;
+ }
+ #b{
+    margin-bottom: 0;
+ }
+ a{
+    color: white;
+ }
